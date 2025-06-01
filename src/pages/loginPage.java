@@ -9,5 +9,10 @@ public class loginPage {
 		String username = "Admin";
 		String password = "Password";
 	}
+	public void verigytitle()
+	{
+		
+	}
+	
 	
 }

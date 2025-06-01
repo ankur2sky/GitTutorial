@@ -7,5 +7,10 @@ public class HomePage {
 		System.out.println("Hello Home Page");
 	}
 	
+	public void verigytitle()
+	{
+		
+	}
+	
 
 }
